@@ -8,3 +8,7 @@
 
 - npm install or yarn install
 - npm start or yarn start
+
+#LIVE VIEW
+
+- https://frontend-exam-2.hostman.site/
